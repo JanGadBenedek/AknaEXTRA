@@ -18,3 +18,10 @@ End screen:
 - idő
 - restart
 - menu
+
+Web:
+-bevezető
+-extra bemutatas
+-review
+-kepek
+-fejlesztok(kepek)
