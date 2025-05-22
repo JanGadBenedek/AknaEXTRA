@@ -1,0 +1,20 @@
+Menü:
+-Név
+-leaderboard
+-difficulty
+-start
+-meno hatter
+-legjobb idő
+
+Játékon belül:
+- maga a játék 
+- lista hogy milyen elemek vannak a pályán
+- timer
+- meg menobb hatter
+- az a meno smile ami van igy a palya folott vagod
+
+End screen:
+- szoptál öcsi/gg
+- idő
+- restart
+- menu
