@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', monospace;
+  background-color: black;
+  background-image: url(meno.jpg);
+  color: #0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header, section, footer {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+header {
+  background: 	#141414;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+h1, h2, h3 {
+  color: #0f0;
+}
+.rules, .game-preview, .ratings, .creators {
+  background: #222222;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.gallery img, .profile-pic {
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+  background-color: #ccc;
+}
+.gallery {
+  display: flex;
+  gap: 20px;
+}
+.rating-card {
+  display: flex;
+  gap: 20px;
+  margin-top: 15px;
+}
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.creator {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 15px;
+}
+footer {
+  text-align: center;
+  background: #141414;
+  color: white;
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  border-radius: 10px;
+}
+
+#f{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
